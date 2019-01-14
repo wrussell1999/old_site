@@ -1,1 +1,1 @@
-[Hackathon Plans](travel-plans.md)
+[Hackathon Plans](hackathons/travel-plans.md)

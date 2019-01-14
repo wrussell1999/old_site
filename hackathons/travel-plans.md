@@ -44,6 +44,11 @@ New Street to Guildford (via Reading)
 Around 3 hours
 
 ### Route
+There are several routes:
+
+![Route 1](surrey/surrey-plan-1.png "Route 1")
+
+![Route 2](surrey/surrey-plan-2.png "Route 2")
 
 ### Saturday Morning
 ![University to Guildford](surrey/to-surrey-times.png "University to Guildford")
@@ -60,6 +65,12 @@ New Street to Reading
 
 ### Route
 
+![Route 1](reading/reading-route-1.png "Route 1")
+
+![Route 1](reading/reading-route-2.png "Route 2")
+
 ### Saturday Morning
+![University to Reading](reading/to-reading-times.png "University to Reading")
 
 ### Sunday Evening
+![Reading to University](reading/from-reading-times.png "Reading to University")
