@@ -1,11 +1,19 @@
-# Will's n00b guides
+# Will Russell
+
+Check out my [website](https://will-russell.com)!
+
+![Me](static/profile.jpg)
 
 ## n00b guides
 
-This is a work in progress:
+These are guides designed to help myself and others understand difficult topics.
 
-[How To Data Science Guide](https://wrussell1999.github.io/how-to-data-science-uob/)
+[How To Git (command line)](git/git.md)
 
-[How To Java Guide](https://wrussell1999.github.io/how-to-java-uob/)
+[How To Data Science Guide](data-science/data-science-home.md)
 
-[How To Maths Guide](https://wrussell1999.github.io/how-to-maths-uob/)
+[How To Java Guide](java/java-home.md)
+
+[How To Maths Guide](maths/maths-home.md)
+
+[How To Logic Guide](logic/Definitions.md)
