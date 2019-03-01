@@ -2,7 +2,7 @@
 
 Check out my [website](https://will-russell.com)!
 
-![Me](static/profile.jpg)
+![Me](img/profile.jpg)
 
 ## n00b guides
 
