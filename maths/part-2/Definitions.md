@@ -18,3 +18,5 @@ $C$ is a constant
 ## Turing Machines
 
 ## $P$ vs $NP$
+
+{% include lib/mathjax.html %}

@@ -18,3 +18,6 @@
 _You don't need to know how to convert a DFA into a regexp._
 
 ## Beyond Regular Language
+
+
+{% include lib/mathjax.html %}

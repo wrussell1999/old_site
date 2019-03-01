@@ -36,3 +36,6 @@ We don't care about the cases when $n < M$, only $n \ge M$.
 Decision Problems are in polynomial time. 
 
 ## Space Complexity
+
+
+{% include lib/mathjax.html %}

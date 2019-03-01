@@ -31,3 +31,4 @@ $\varepsilon$ is just thinking time during a transition.
 
 ## Minimising an automaton
 
+{% include lib/mathjax.html %}

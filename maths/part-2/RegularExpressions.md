@@ -29,3 +29,6 @@ Any regular language is accepted by a finite automaton and conversely that any l
 
 ### Proof
 
+
+
+{% include lib/mathjax.html %}
