@@ -20,4 +20,4 @@ social-network-links:
 url-pretty: "will-russell.com"
 
 plugins:
-    - jekll-sitemap
+    - jekyll-sitemap
