@@ -18,32 +18,32 @@ I'm using VS Code and Markdown+Math _by goessner_to render thr formulas.
 
 ## Symbols for dummies
 
-$\N$ means _set of Natural numbers_
+$$\N$$ means _set of Natural numbers_
 
-$\Z$ means _set of Integers_
+$$\Z$$ means _set of Integers_
 
-$Q$ means _set of rational numbers_
+$$Q$$ means _set of rational numbers_
 
-$\R$ means _set of real numbers$
+$$\R$$ means _set of real numbers$$
 
 ### Symbols
 
-$\subset$ means _proper subset of_
+$$\subset$$ means _proper subset of_
 
-$\subseteq$ means _a subset of_
+$$\subseteq$$ means _a subset of_
 
-$\cup$ means _set union_
+$$\cup$$ means _set union_
 
-$\cap$ means _set intersection_
+$$\cap$$ means _set intersection_
 
-$\exists$ means _there exists at least one_
+$$\exists$$ means _there exists at least one_
 
-$\forall$ means _for all_
+$$\forall$$ means _for all_
 
-$\in$ means _member of_
+$$\in$$ means _member of_
 
-$\Longrightarrow$ means _implies_
+$$\Longrightarrow$$ means _implies_
 
-$\iff$ means _is equivalent to_. Also referred to as as _iff_ or _if and only if_
+$$\iff$$ means _is equivalent to_. Also referred to as as _iff_ or _if and only if_
 
 {% include lib/mathjax.html %}
