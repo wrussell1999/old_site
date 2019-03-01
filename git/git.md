@@ -1,5 +1,7 @@
 # Will's Guide to using Git for n00bs
 
+[Return](../index.md)
+
 ## Key Terms
 
 * Repository: Place where a project is kept.
