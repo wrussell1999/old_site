@@ -1,3 +1,23 @@
 theme: jekyll-theme-minimal
-title: Will Russell GitHub Pages
-description: For Markdown files
+title: Will Russell
+description: Displaying my GitHub projects and n00b guides
+markdown: kramdown
+
+navbar-links:
+  My Website: "https://www.will-russell.com"
+
+avatar: "/img/icon.png"
+
+author:
+  name: "Will Russell"
+
+social-network-links:
+  email: "will@will-russell.com"
+  github: wrussell1999
+  twitter: WilliamR__
+  linkedin: william-russell-0a2a9b170
+
+url-pretty: "will-russell.com"
+
+plugins:
+  -jekll-sitemap
