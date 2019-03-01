@@ -11,12 +11,12 @@
 
 ## Complexity
 
-$f(n) \le C \cdot g(n)$ for $n \ge M$
+$$f(n) \le C \cdot g(n)$$ for $$n \ge M$$
 
-$C$ is a constant
+$$C$$ is a constant
 
 ## Turing Machines
 
-## $P$ vs $NP$
+## $$P$$ vs $$NP$$
 
 {% include lib/mathjax.html %}

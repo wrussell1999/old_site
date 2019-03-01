@@ -2,13 +2,13 @@
 
 - DFA: Deterministic Finite Automata
 - NFA: Nondeterministic Fintite Automata
-- $\varepsilon$NFA: 
+- $$\varepsilon$$NFA: 
 
 ## Regular Expressions
 
 - Write a regular expression (regexp).
-- Know how to convert a regexp into an $\varepsilon$NFA.
-- $\varepsilon$NFA into an NFA.
+- Know how to convert a regexp into an $$\varepsilon$$NFA.
+- $$\varepsilon$$NFA into an NFA.
 - NFA into a DFA.
 - Know Kleene's Theorem and apply it to show that languages are regular.
 - Know how to test whether DFAs are language equivalent.

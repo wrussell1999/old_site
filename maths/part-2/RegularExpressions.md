@@ -4,9 +4,9 @@
 
 ## Languages
 
-An alphabet may be represented with $\Sigma$.
+An alphabet may be represented with $$\Sigma$$.
 
-A language is a subset $L \subseteq \Sigma^*$, also known as a set of words.
+A language is a subset $$L \subseteq \Sigma^*$$, also known as a set of words.
 
 A language is regular if it can be represented by a regular expression.
 
@@ -18,10 +18,10 @@ _Countable:_
 
 ### Theorem 1
 
-For a language $L \subseteq \Sigma^*$:
+For a language $$L \subseteq \Sigma^*$$:
 
-1. $L$ is regular _(can be described by a regular expression.)_
-2. THe matching problem for $L$ can be solved by a DFA.
+1. $$L$$ is regular _(can be described by a regular expression.)_
+2. THe matching problem for $$L$$ can be solved by a DFA.
 
 ### Definition
 
