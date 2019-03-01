@@ -18,13 +18,13 @@ I'm using VS Code and Markdown+Math _by goessner_to render thr formulas.
 
 ## Symbols for dummies
 
-$$\N$$ means _set of Natural numbers_
+$$\mathcal{N}$$ means _set of Natural numbers_
 
-$$\Z$$ means _set of Integers_
+$$\mathcal{Z}$$ means _set of Integers_
 
-$$Q$$ means _set of rational numbers_
+$$\mathcal{Q}$$ means _set of rational numbers_
 
-$$\R$$ means _set of real numbers$$
+$$\mathcal{R}$$ means _set of real numbers_
 
 ### Symbols
 
