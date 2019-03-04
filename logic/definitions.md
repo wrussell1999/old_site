@@ -1,6 +1,6 @@
 # Definitions
-
 [Return Home](../index.md)
+
 
 ---
 Modus Ponens = Implies Elimination

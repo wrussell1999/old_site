@@ -6,8 +6,8 @@ How to Maths for n00bs: Mathematical Foundations of Computer Science at the Univ
 
 # Index
 
-1. [Part 1](part-1/part-1.md)
-2. [Part 2](part-2/part-2.md)
+- [Part 1](part-1/part-1.md)
+- [Part 2](part-2/part-2.md)
 
 ## To View
 
