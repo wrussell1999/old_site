@@ -17,3 +17,5 @@ These are guides designed to help myself and others understand difficult topics.
 [How To Maths Guide](maths/maths-home.md)
 
 [How To Logic Guide](logic/Definitions.md)
+
+[How To AI Guide](ai/definitions.md)
