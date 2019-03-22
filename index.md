@@ -2,7 +2,10 @@
 
 Check out my [website](https://will-russell.com)!
 
-![Me](img/profile.jpg)
+## [Hackathons with CSS](hackathons/index.md)
+
+
+
 
 ## n00b guides
 
