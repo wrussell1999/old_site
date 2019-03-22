@@ -20,9 +20,9 @@
 
 |Saturday Morning|Sunday Evening|
 |-------|-------|
-|University|15 Minute walk from station|
+|University|15 Minute walk from Millennium Point|
 |Birmingham New Street|Birmingham New Street|
-|15 Minute Walk|University|
+|15 Minute walk to Millennium Point|University|
 
 ##### Bus
 

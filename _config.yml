@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: Will Russell
 description: Displaying my GitHub projects and n00b guides
 markdown: kramdown
