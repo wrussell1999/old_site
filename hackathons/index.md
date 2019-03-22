@@ -1,8 +1,11 @@
 # Hackathons with the University of Birmingham Computer Science Society (CSS)
+
 ## Autumn Season
-### HackTheMidlands 4.0
 
 **Details to be confirmed - this **
+
+### HackTheMidlands 4.0
+
 
 |||
 |----|------| 
@@ -36,11 +39,13 @@ Bus from The Vale
 #### Travel
 
 ##### Stations
+
 |Outbound|Return|
 |------|-------|
 |University|15 minute walk along tram line|
 |Birmingham New Street|Birmingham New Street|
 ||15 minute walk along tram line|University|
+
 ### HackNotts
 
 |||
@@ -52,6 +57,7 @@ Bus from The Vale
 #### Travel
 
 ##### Stations
+
 |Outbound|Return|
 |-------|---------|
 |University|15 minute walk|
@@ -73,6 +79,7 @@ Bus from The Vale
 #### Travel
 
 ##### Stations
+
 |Outbound|Return|
 |-------|--------|
 |University|Egham|
@@ -88,6 +95,10 @@ Bus from The Vale
 |Date|Autumn|
 |Time|10 AM|
 |Location|University of Surrey|
+
+#### Travel
+
+##### Stations
 
 |Outbound|Return|
 |------|---------|
