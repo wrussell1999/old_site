@@ -2,7 +2,7 @@
 
 ## Autumn Season
 
-**Details to be confirmed - this**
+**_Details to be confirmed - this_**
 
 ### HackTheMidlands 4.0
 
@@ -18,9 +18,9 @@
 
 ##### Stations
 
-|Outbound|Return|
+|Saturday Morning|Sunday Evening|
 |-------|-------|
-|University|15 Minute walk|
+|University|15 Minute walk from station|
 |Birmingham New Street|Birmingham New Street|
 |15 Minute Walk|University|
 
@@ -40,11 +40,11 @@ Bus from The Vale
 
 ##### Stations
 
-|Outbound|Return|
+|Saturday Morning|Sunday|
 |------|-------|
 |University|15 minute walk along tram line|
 |Birmingham New Street|Birmingham New Street|
-||15 minute walk along tram line|University|
+|15 minute walk along tram line|University|
 
 ### HackNotts
 
@@ -58,12 +58,12 @@ Bus from The Vale
 
 ##### Stations
 
-|Outbound|Return|
+|Saturday Morning|Sunday Evening|
 |-------|---------|
-|University|15 minute walk|
+|University|15 minute walk to tram stop|
 |Nottingham|Tram to Hucknall (Stop: Nottingham Station)|
 |Tram to Toton Lane (Stop: Queens Medical Centre)|Nottingham|
-|15 minute walk|University|
+|15 minute walk from tram sop|University|
 
 
 ## Spring Season
@@ -80,7 +80,7 @@ Bus from The Vale
 
 ##### Stations
 
-|Outbound|Return|
+|Saturday Morning|Sunday Evening|
 |-------|--------|
 |University|Egham|
 |Birmingham New Street|Reading|
@@ -100,7 +100,7 @@ Bus from The Vale
 
 ##### Stations
 
-|Outbound|Return|
+|Saturday Morning|Sunday Evening|
 |------|---------|
 |University|Surrey|
 |Birmingham New Street|Reading|
