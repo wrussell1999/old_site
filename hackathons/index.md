@@ -2,7 +2,7 @@
 
 ## Autumn Season
 
-**Details to be confirmed - this **
+**Details to be confirmed - this**
 
 ### HackTheMidlands 4.0
 
