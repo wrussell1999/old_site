@@ -6,7 +6,7 @@ markdown: kramdown
 navbar-links:
     My Website: "https://www.will-russell.com"
 
-avatar: "/img/icon.png"
+avatar: "assets/img/icon.png"
 
 author:
     name: "Will Russell"
