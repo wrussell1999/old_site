@@ -20,7 +20,7 @@ Induction is split into 3 sections:
 - Inductive Hypothesis
 - Inductive Step
 
-## Theory 1
+## Theorem 1
 _Given a fixed number b ≠ 0, every natural number can (uniquely) be written in the form m × b + r where m and r are natural numbers and r < b holds._
 
 ## Semi Ring Laws
