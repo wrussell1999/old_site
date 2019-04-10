@@ -56,4 +56,4 @@ Defined recursively as follows:
 
 _Binomial tree of order _k_:
 - Height: _k_
-- Contains: $$2^{k}$$ nodes
+- Contains: 2^_k_ nodes
