@@ -57,3 +57,34 @@ Defined recursively as follows:
 _Binomial tree of order _k_:
 - Height: _k_
 - Contains: 2^_k_ nodes
+
+
+## Graphs
+
+### Weighted vs Unweighted
+Weighted graphs have values on each path/link. This represents something like a distance or time between the nodes. An example of this would be a map with distances between nodes.
+
+Unweighted graphs don't have any values, therefore are just showing that nodes are connected to each other.
+
+### Connected
+An undirected graph is connected where there is a path between every pair of vertices.
+
+Digraphs, or directed graphs, are connected in 2 ways:
+
+1. Weakly connected: When there is a path in **one** direction between a pair of nodes
+2. Strongly connected: When there is a path in **both** directions between a pair of nodes
+
+### Planar
+When all the edges can be drawn in a two-dimensional plane with no edges crossing each other.
+
+### Adjacency Matrix
+A way of visualising a graph and which nodes are connected to which:
+
+Example of a undirected weighted graph
+|.|A|B|C|D|E|
+|-|-|-|-|-|-|
+|A|0|3|1|0|0|
+|B|3|0|2|4|0|
+|C|1|2|0|0|5|
+|D|0|4|0|0|0|
+|E|0|0|5|0|0|
