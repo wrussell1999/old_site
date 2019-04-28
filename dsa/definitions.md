@@ -81,6 +81,7 @@ When all the edges can be drawn in a two-dimensional plane with no edges crossin
 A way of visualising a graph and which nodes are connected to which:
 
 Example of a undirected weighted graph
+
 |.|A|B|C|D|E|
 |-|-|-|-|-|-|
 |A|0|3|1|0|0|
