@@ -255,7 +255,7 @@ sort(array a of size n) {
 ```
 
 ## Priority Queues and Heap Trees
-
+Similar to the pseudocode in the notes, but written in pure Java and all works. 
 <script src="https://gist.github.com/wrussell1999/954bd9dc7ea43f4cf61ce56f4ac5b24c.js"></script>
 
 ## Sorting Algorithms
