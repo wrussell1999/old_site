@@ -21,6 +21,6 @@ These are guides designed to help myself and others understand difficult topics.
 
 [How To Logic Guide](logic/definitions.md)
 
-[How To AI Guide](ai/definitions.md)
+[How To AI Guide](ai/ai-home.md)
 
-[How to DSA Guide](dsa/definitions.md)
+[How to DSA Guide](dsa/dsa-home.md)
