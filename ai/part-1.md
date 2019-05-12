@@ -13,7 +13,7 @@
 2. Breadth-First and Depth-First Search
     - Problem-solving agents
     - Problem formulation
-    - Uniformed search algorithms
+    - Uninformed search algorithms
         - Breadth-First Search
         - Depth-First Search
         - Depth-Limited Search
